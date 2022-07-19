@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "z2EMbvAX94d1i+pNZVM8R+SFlYAXBGiDjqTzIsn/0dbLfBVC079REOLbTHWmssAD0I1qIOERKLwfZaQs4aD0fw==",
+  "success": true,
+  "projectFilePath": "P:\\Accounting\\Accounting\\Accounting\\Accounting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Overlord\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Overlord\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\Overlord\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Overlord\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.116\\stub.system.data.sqlite.core.netstandard.1.0.116.nupkg.sha512",
+    "C:\\Users\\Overlord\\.nuget\\packages\\system.data.sqlite.core\\1.0.116\\system.data.sqlite.core.1.0.116.nupkg.sha512",
+    "C:\\Users\\Overlord\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
