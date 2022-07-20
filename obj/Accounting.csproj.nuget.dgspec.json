@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "P:\\Accounting\\Accounting\\Accounting\\Accounting.csproj": {}
+    "P:\\Accounting\\Accounting.csproj": {}
   },
   "projects": {
-    "P:\\Accounting\\Accounting\\Accounting\\Accounting.csproj": {
+    "P:\\Accounting\\Accounting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\Accounting\\Accounting\\Accounting\\Accounting.csproj",
+        "projectUniqueName": "P:\\Accounting\\Accounting.csproj",
         "projectName": "Accounting",
-        "projectPath": "P:\\Accounting\\Accounting\\Accounting\\Accounting.csproj",
+        "projectPath": "P:\\Accounting\\Accounting.csproj",
         "packagesPath": "C:\\Users\\Overlord\\.nuget\\packages\\",
-        "outputPath": "P:\\Accounting\\Accounting\\Accounting\\obj\\",
+        "outputPath": "P:\\Accounting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
